@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/stmary/static/css/main.5d6a1019.css",
-    "main.js": "/stmary/static/js/main.821135c1.js",
+    "main.js": "/stmary/static/js/main.be5d2610.js",
     "static/media/churchdesign.png": "/stmary/static/media/churchdesign.29767db0eba02ca3d4da.png",
     "static/media/fa-solid-900.svg": "/stmary/static/media/fa-solid-900.9fa614346b4e81decc62.svg",
     "static/media/fa-brands-400.svg": "/stmary/static/media/fa-brands-400.6fcab609e2f62d5c3104.svg",
@@ -30,10 +30,10 @@
     "static/media/fa-regular-400.woff2": "/stmary/static/media/fa-regular-400.e5917ad1531005ea8c3f.woff2",
     "index.html": "/stmary/index.html",
     "main.5d6a1019.css.map": "/stmary/static/css/main.5d6a1019.css.map",
-    "main.821135c1.js.map": "/stmary/static/js/main.821135c1.js.map"
+    "main.be5d2610.js.map": "/stmary/static/js/main.be5d2610.js.map"
   },
   "entrypoints": [
     "static/css/main.5d6a1019.css",
-    "static/js/main.821135c1.js"
+    "static/js/main.be5d2610.js"
   ]
 }
