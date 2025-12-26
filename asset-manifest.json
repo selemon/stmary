@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/church/static/css/main.d4c21cd5.css",
+    "main.js": "/church/static/js/main.39fd0d34.js",
+    "static/media/churchdesign.png": "/church/static/media/churchdesign.29767db0eba02ca3d4da.png",
+    "static/media/fa-solid-900.svg": "/church/static/media/fa-solid-900.9fa614346b4e81decc62.svg",
+    "static/media/fa-brands-400.svg": "/church/static/media/fa-brands-400.6fcab609e2f62d5c3104.svg",
+    "static/media/churchlogo.png": "/church/static/media/churchlogo.3173613885da539e60dc.png",
+    "static/media/Montserrat-Regular.ttf": "/church/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/fa-solid-900.eot": "/church/static/media/fa-solid-900.d93bcbbb0fbfad39d905.eot",
+    "static/media/fa-solid-900.ttf": "/church/static/media/fa-solid-900.aae41ea25bd0dde9f796.ttf",
+    "static/media/fa-regular-400.svg": "/church/static/media/fa-regular-400.4e8f9fa44f7ec7479c39.svg",
+    "static/media/fa-brands-400.eot": "/church/static/media/fa-brands-400.b09f783b99c88d6989f7.eot",
+    "static/media/fa-brands-400.ttf": "/church/static/media/fa-brands-400.ec7723ea62ad74c14959.ttf",
+    "static/media/GoogleSans-Italic.ttf": "/church/static/media/GoogleSans-Italic.40bb50bd202405745006.ttf",
+    "static/media/GoogleSans-MediumItalic.ttf": "/church/static/media/GoogleSans-MediumItalic.56d4f777a7997e5a10b3.ttf",
+    "static/media/GoogleSans-BoldItalic.ttf": "/church/static/media/GoogleSans-BoldItalic.d282e9c31d0f894a7f06.ttf",
+    "static/media/GoogleSans-Regular.ttf": "/church/static/media/GoogleSans-Regular.bec0591b6a291c3ca895.ttf",
+    "static/media/GoogleSans-Medium.ttf": "/church/static/media/GoogleSans-Medium.963c3e555aaada9ef8a9.ttf",
+    "static/media/GoogleSans-Bold.ttf": "/church/static/media/GoogleSans-Bold.d907e4bf3e32637a636e.ttf",
+    "static/media/fa-solid-900.woff": "/church/static/media/fa-solid-900.3ef4f1acb44a2df412bf.woff",
+    "static/media/Agustina.woff": "/church/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/fa-brands-400.woff": "/church/static/media/fa-brands-400.dc957891d535aa198135.woff",
+    "static/media/fa-solid-900.woff2": "/church/static/media/fa-solid-900.4a83f63fd7dd55c4ca85.woff2",
+    "static/media/fa-brands-400.woff2": "/church/static/media/fa-brands-400.1c638e5f7632ea819e77.woff2",
+    "static/media/animated_ashutosh.png": "/church/static/media/animated_ashutosh.0912aa2dbd6937839892.png",
+    "static/media/fa-regular-400.eot": "/church/static/media/fa-regular-400.86ce78132c18df414d83.eot",
+    "static/media/fa-regular-400.ttf": "/church/static/media/fa-regular-400.235a1aa30ba10c7d00d0.ttf",
+    "static/media/fa-regular-400.woff": "/church/static/media/fa-regular-400.2ccf005a6998d30de3d3.woff",
+    "static/media/fa-regular-400.woff2": "/church/static/media/fa-regular-400.e5917ad1531005ea8c3f.woff2",
+    "index.html": "/church/index.html",
+    "main.d4c21cd5.css.map": "/church/static/css/main.d4c21cd5.css.map",
+    "main.39fd0d34.js.map": "/church/static/js/main.39fd0d34.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4c21cd5.css",
+    "static/js/main.39fd0d34.js"
+  ]
+}
